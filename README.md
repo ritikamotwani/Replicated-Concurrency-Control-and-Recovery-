@@ -1,1 +1,1 @@
-# Replicated-Concurrency-Control-and-Recovery-
+# Replicated-Concurrency-Control-and-Recovery
